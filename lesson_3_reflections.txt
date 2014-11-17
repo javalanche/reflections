@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	fork: copy of branch on my GitHub account
 	clone: copy of branch on my local machine
 	branch: a string of commits that has lead to the present state of project
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	can always revert back to it if you mess up something and don't want to take the time to finish it
